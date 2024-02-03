@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HarshManchanda
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning regular college stuff 
+- 👀 I’m interested in Data science and engineering
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 How to reach me harsh.manchanda.129@gmail.com
 
